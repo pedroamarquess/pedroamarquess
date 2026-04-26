@@ -4,6 +4,8 @@ Estudante de Sistemas de Informação na UFSC e desenvolvedor back-end em forma�
 Atualmente estagio na INFRAS Engenharia, onde desenvolvo ferramentas em Python e VBA
 aplicadas à documentação técnica de projetos de infraestrutura.
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DB8E8&width=435&lines=Desenvolvedor+Back-End;Python+%7C+Node.js+%7C+MySQL;Estudante+de+SI+na+UFSC)](https://git.io/typing-svg)
+
 ## 🛠️ Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
