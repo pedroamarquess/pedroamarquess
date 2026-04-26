@@ -16,7 +16,7 @@ aplicadas à documentação técnica de projetos de infraestrutura.
 
 ## 📍 Sobre mim
 
-- 🎓 Sistemas de Informação — UFSC (2024–2029)
+- 🎓 Sistemas de Informação — UFSC
 - 💼 Estagiário de TI — INFRAS Engenharia
 - 📍 Florianópolis, SC
 - 🔗 [LinkedIn](https://linkedin.com/in/pedro-marques-si)
